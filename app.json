@@ -1,0 +1,38 @@
+{
+    "name": "Start on Heroku: Go",
+    "description": "Go Getting Started Example App",
+    "keywords": [
+        "getting-started",
+        "go",
+        "sample",
+        "example"
+    ],
+    "website": "http://github.com/heroku/go-getting-started",
+    "repository": "http://github.com/heroku/go-getting-started",
+    "env": {
+    "CONFIG_JSON1": {
+            "description": "不熟悉v2ray的默认即可",
+            "value": "{\"log\":{\"loglevel\":\"warning\"},\"inbound\":{\"protocol\":\"vmess\",\"port\":"
+        },
+        "CONFIG_JSON2": {
+            "description": "拼接config.json,默认即可",
+            "value": ",\"settings\":{\"clients\":[{\"id\":\""
+        },
+        "UUID": {
+            "description": "搜索uuidgenerator在线生成自己的UUID",
+            "value": ""
+        },
+        "CONFIG_JSON3": {
+            "description": "拼接config.json,默认即可",
+            "value": ""
+        },
+        "CERT_PEM": {
+            "description": "CERT_PEM",
+            "value": ""
+        },
+        "KEY_PEM": {
+            "description": "KEY_PEM",
+            "value": ""
+        }
+    }
+}
