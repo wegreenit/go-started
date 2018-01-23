@@ -1,3 +1,4 @@
+https://heroku.com/deploy?template=https://github.com/xxx/yyy address
 
 # go-getting-started
 
